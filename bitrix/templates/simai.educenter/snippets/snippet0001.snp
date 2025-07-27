@@ -1,0 +1,26 @@
+<div class="table-responsive">
+	<table class="table table-striped table-bordered">
+		<tbody>
+			<tr>
+				<th>Заголовок 1</th>
+				<th>Заголовок 2</th>
+				<th>Заголовок 3</th>
+			</tr>
+			<tr>
+				<td>Колонка 1. Строка 1</td>
+				<td>Колонка 1. Строка 2</td>
+				<td>Колонка 1. Строка 3</td>
+			</tr>
+			<tr>
+				<td>Колонка 2. Строка 1</td>
+				<td>Колонка 2. Строка 2</td>
+				<td>Колонка 2. Строка 3</td>
+			</tr>
+			<tr>
+				<td>Колонка 3. Строка 1</td>
+				<td>Колонка 3. Строка 2</td>
+				<td>Колонка 3. Строка 3</td>
+			</tr>			
+		</tbody>
+	</table>
+</div>

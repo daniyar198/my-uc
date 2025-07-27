@@ -1,0 +1,47 @@
+.block-header > h2 {
+  /*font-size: 15px;*/
+  color: #777;
+  margin: 0;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.cp-container {
+  position: relative;
+}
+
+.cp-container > .input-group input.cp-value {
+  color: #000 !important;
+  background: #fff !important;
+}
+
+.cp-container > .input-group .dropdown-menu {
+    padding: 20px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+
+.cp-container i.cp-value {
+    width: 100px;
+    height: 40px;
+    border-radius: 2px;
+    position: absolute;
+    bottom: -40px;
+    right: 50%;
+    margin-right: -50px;
+}
+
+.cp-area
+{
+    background-color: #e0e8ea;
+    border: 1px solid #F5F9F9;
+    padding: 15px;
+    text-align: center;
+}
+
+.input-type-selector
+{
+    text-align: left;
+    display: inline-block;
+    margin: 20px;
+}

@@ -1,0 +1,7 @@
+<?
+$MESS["CT_BNL_ELEMENT_DELETE_CONFIRM"] = "All the information linked to this record will be deleted. Continue anyway?";
+$MESS["ZOOM_IMG"] = "Zoom";
+$MESS["VIEW_IMG"] = "View";
+$MESS["SHOW_ALL"] = "All";
+$MESS["FILTER_PROJECTS"] = "Filter";
+?>

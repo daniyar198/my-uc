@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Расписание", 
+		"./schedule/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Объявления", 
+		"./announcing/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"./news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Аттестации", 
+		"./attestation/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Правила внутреннего распорядка", 
+		"./pravila/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Методические материалы", 
+		"./docs/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вакансии", 
+		"/life/vakansii/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

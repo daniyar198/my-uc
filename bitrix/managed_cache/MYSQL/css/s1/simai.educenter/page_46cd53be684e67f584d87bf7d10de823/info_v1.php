@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/simai.educenter/components/bitrix/catalog/documents/bitrix/catalog.section/documents/style.css" => "1753512206306",]; ?>

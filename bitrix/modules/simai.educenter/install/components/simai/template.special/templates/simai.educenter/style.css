@@ -1,0 +1,44 @@
+.special-settings .theme {
+    padding: 5px;
+    border: 1px solid #eeeeee;
+    cursor: pointer;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.special-settings .theme.white {
+    background: #fff !important;
+    color: #000 !important;
+}
+
+.special-settings .theme.black {
+    background: #000 !important;
+    color: #fff !important;
+}
+
+.special-settings .theme.yellow {
+    background: #000 !important;
+    color: #ff0 !important;
+}
+
+.special-settings .theme.blue {
+    background: #9FD7FF !important;
+    color: #143c5a !important;
+}
+
+.special-kerning-small{
+	letter-spacing:normal;
+}
+.special-kerning-normal{
+	letter-spacing:2px;
+}
+.special-kerning-big{
+	letter-spacing:3px;
+}
+
+.special-fonttype-arial{
+	font-family: Arial !important;
+}
+.special-fonttype-times{
+	font-family: "Times New Roman" !important;
+}

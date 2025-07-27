@@ -1,0 +1,64 @@
+.news-calendar {position: relative;}
+.NewsCalNews {
+    position: absolute;
+    padding: 10px 15px;
+    z-index: 1010;
+    display: none;
+    max-width: 300px;
+    text-align: left;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 1px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    top: 80%;
+    left: 80%;;
+}
+.NewsCalOtherMonth {background: #fcf8e3;}
+a.dotted-link {border-bottom: 1px dashed #1F7BC6;text-decoration: none;}
+.events-block {
+    display: flex;
+    position:relative;
+}
+.events-block a {
+    width: 100%;
+}
+
+.control-news-calendar {
+	display: flex;
+	align-items: stretch;
+	justify-content: space-between;
+	padding: 0;
+	background: rgba(0,0,0, 0.02);
+	border-top-right-radius: 1px;
+	border-top-left-radius: 1px;
+
+}
+.control-news-calendar .prev-year-btn {
+	flex: 0 0 20%;
+	padding: 1rem 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.control-news-calendar .year-btn {
+	flex: 0 0 20%;
+	padding: 1rem 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}    
+
+.control-news-calendar .next-year-btn {
+	flex: 0 0 20%;
+	padding: 1rem 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.control-news-calendar .selected-month {
+	flex: 0 0 40%;
+	padding: 1rem;
+}  

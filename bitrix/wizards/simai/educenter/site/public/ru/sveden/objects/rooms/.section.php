@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Помещения";
+$arDirProperties = Array(
+
+);
+?>

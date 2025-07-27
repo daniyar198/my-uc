@@ -1,0 +1,44 @@
+.body-bg-11{background:#fff}
+.body-bg-12{background:#e5e5e5}
+.body-bg-13{background:#333}
+.body-bg-14{background:rgba(31,123,198,0.1)}
+.body-bg-15{background:rgba(142,196,73,0.1)}
+.body-bg-16{background:rgba(70,104,137,1)}
+.body-bg-21 {background: url("../../../images/site_bg/21.png") repeat;}
+.body-bg-22 {background: url("../../../images/site_bg/22.png") repeat;}
+.body-bg-23 {background: url("../../../images/site_bg/23.png") repeat;}
+.body-bg-24 {background: url("../../../images/site_bg/24.png") repeat;}
+.body-bg-25 {background: url("../../../images/site_bg/25.png") repeat;}
+.body-bg-26 {background: url("../../../images/site_bg/26.png") repeat;}
+.body-bg-31 {background: url("../../../images/site_bg/31.png") repeat;}
+.body-bg-32 {background: url("../../../images/site_bg/32.png") repeat;}
+.body-bg-33 {background: url("../../../images/site_bg/33.png") repeat;}
+.body-bg-34 {background: url("../../../images/site_bg/34.png") repeat;}
+.body-bg-35 {background: url("../../../images/site_bg/35.png") repeat;}
+.body-bg-36 {background: url("../../../images/site_bg/36.png") repeat;}
+.body-bg-41 {background: url("../../../images/site_bg/41.png") repeat;}
+.body-bg-42 {background: url("../../../images/site_bg/42.gif") repeat;}
+.body-bg-43 {background: url("../../../images/site_bg/43.png") repeat;}
+.body-bg-44 {background: url("../../../images/site_bg/44.png") repeat;}
+.body-bg-45 {background: url("../../../images/site_bg/45.png") repeat;}
+.body-bg-46 {background: url("../../../images/site_bg/46.jpg") repeat;}
+
+
+.style-switcher-slidebar label{margin-bottom:0}
+.style-switcher-slidebar h3{height:50px;line-height:50px;margin:0 0 10px;padding:0 10px;background:#1F7BC6;font-size:16px;color:#fff}
+.style-switcher-slidebar .panel-section{padding:0 15px}
+.style-switcher-slidebar .switch-panel .form-group{margin-bottom:5px;margin-top:5px}
+.style-switcher-slidebar .switch-panel .bg-switch a{width:36px;height:36px;float:left;margin-right:8px}
+.color-switch a{width:30px;height:30px;border:2px solid transparent;display:inline-block;margin-right:5px;margin-bottom:8px;text-indent:-9999px}
+.color-switch a:hover,.color-switch a.active{border:2px solid #1F7BC6;box-shadow:2px 2px 0 #666}
+.color-switch a:last-child{margin-right:0}
+.color-switch a.color-red{background:#e91b23!important}
+.color-switch a.color-violet{background:#563d7c!important}
+.color-switch a.color-blue{background:#1F7BC6!important}
+.color-switch a.color-green{background:#8ec449!important}
+.color-switch a.color-yellow{background:#f1c40f!important}
+.color-switch a.color-orange{background:#d35400!important}
+
+
+
+

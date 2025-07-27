@@ -1,0 +1,4 @@
+<?
+$MESS["SF_NAVBAR_NAME_MOBILE_MENU"] = "Navigation";
+$MESS["SF_NAVBAR_MOBILE_BACK"] = "Back";
+?>

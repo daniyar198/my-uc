@@ -1,0 +1,50 @@
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
+$this->setFrameMode(true);
+?>
+<form name="<?echo $arResult["FILTER_NAME"]."_form"?>" id="filter_form" action="<?echo $arResult["FORM_ACTION"]?>" method="get">
+	<?foreach($arResult["ITEMS"] as $arItem):
+		if(array_key_exists("HIDDEN", $arItem)):
+			echo $arItem["INPUT"];
+		endif;
+	endforeach;?>
+    <script type="text/javascript">
+        $(function(){
+            $(".filter-report input[type='text']").addClass("form-control");
+        });
+    </script>
+	<table class="table filter-report">
+	<thead>
+		<tr>
+			<td colspan="2" align="center"><?=GetMessage("IBLOCK_FILTER_TITLE")?></td>
+		</tr>
+	</thead>
+	<tbody>
+		<?foreach($arResult["ITEMS"] as $arItem):?>
+			<?
+            if(!array_key_exists("HIDDEN", $arItem)):?>
+				<tr>
+					<td valign="top"><?=$arItem["NAME"]?>:</td>
+					<td valign="top"><?=$arItem["INPUT"]?></td>
+				</tr>
+			<?endif?>
+		<?endforeach;?>
+	</tbody>
+	<tfoot>
+		<tr style="display:none">
+			<td colspan="2">
+				<input type="submit" name="set_filter" class="btn btn-base" value="<?=GetMessage("IBLOCK_SET_FILTER")?>" /><input type="hidden" name="set_filter" value="Y" />&nbsp;&nbsp;<input type="submit" class="btn btn-theme" name="del_filter" value="<?=GetMessage("IBLOCK_DEL_FILTER")?>" />
+            </td>
+		</tr>
+	</tfoot>
+	</table>
+</form>
+
+<script>
+ $(function(){
+            $("select[name='arrFilter_pf[TEACHER]'] option[value='<?=$_REQUEST["arrFilter_pf"]["TEACHER"]?>']").attr("selected","");
+			
+			$( "select[name='arrFilter_pf[TEACHER]']" ).change(function() {
+			   $( "#filter_form" ).submit();
+			});
+        })
+</script>

@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Корпоративное обучение", 
+		"./", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Расписание курсов", 
+		"./schedule/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"./news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вопрос-ответ", 
+		"/life/faq/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отзывы", 
+		"/life/reviews/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

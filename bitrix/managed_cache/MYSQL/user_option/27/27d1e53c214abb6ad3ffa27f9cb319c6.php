@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001753539429';
+$dateexpire = '001753543029';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:15:{s:28:"type_selector_PREVIEW_TEXT27";a:1:{s:4:"type";s:6:"editor";}s:28:"type_selector_PREVIEW_TEXT28";a:1:{s:4:"type";s:6:"editor";}s:28:"type_selector_PREVIEW_TEXT33";a:1:{s:4:"type";s:6:"editor";}s:27:"type_selector_PREVIEW_TEXT8";a:1:{s:4:"type";s:6:"editor";}s:42:"type_selector_PROP_109__1059__VALUE__TEXT_";a:1:{s:4:"type";s:6:"editor";}s:42:"type_selector_PROP_134__1504__VALUE__TEXT_";a:1:{s:4:"type";s:6:"editor";}s:42:"type_selector_PROP_134__2190__VALUE__TEXT_";a:1:{s:4:"type";s:6:"editor";}s:42:"type_selector_PROP_147__1444__VALUE__TEXT_";a:1:{s:4:"type";s:6:"editor";}s:40:"type_selector_PROP_147__n0__VALUE__TEXT_";a:1:{s:4:"type";s:6:"editor";}s:39:"type_selector_PROP_22__n0__VALUE__TEXT_";a:1:{s:4:"type";s:6:"editor";}s:39:"type_selector_PROP_57__n0__VALUE__TEXT_";a:1:{s:4:"type";s:6:"editor";}s:41:"type_selector_PROP_99__1042__VALUE__TEXT_";a:1:{s:4:"type";s:6:"editor";}s:44:"type_selector_SPROP_s211__1699__VALUE__TEXT_";a:1:{s:4:"type";s:6:"editor";}s:44:"type_selector_SPROP_s211__1700__VALUE__TEXT_";a:1:{s:4:"type";s:6:"editor";}s:14:"user_settings_";a:1:{s:13:"taskbar_shown";i:1;}}}';
+return true;
+?>

@@ -1,0 +1,730 @@
+2024-12-12 13:45:40 -  - exec CUpdateClient::GetUpdatesList
+2024-12-12 13:45:40 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:45:40 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.100.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:45:40 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:45:40 -  - TIME GetUpdatesList(request) 0.075 sec
+2024-12-12 13:45:40 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:45:40 -  - exec CUpdateClient::executeCounters
+2024-12-12 13:45:40 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:45:40 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.100.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[442]=
+2024-12-12 13:45:40 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:45:40 -  - TIME executeCounters 0.065 sec
+2024-12-12 13:46:20 -  - exec CUpdateClient::GetUpdatesList
+2024-12-12 13:46:20 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:46:20 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.100.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:46:20 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:46:20 -  - TIME GetUpdatesList(request) 0.164 sec
+2024-12-12 13:46:20 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:46:20 -  - exec CUpdateClient::executeCounters
+2024-12-12 13:46:20 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:46:20 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.100.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[442]=
+2024-12-12 13:46:20 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:46:20 -  - TIME executeCounters 0.138 sec
+2024-12-12 13:46:23 -  - exec CUpdateClient::UpdateUpdate
+2024-12-12 13:46:23 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:46:23 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.100.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=updateupdate
+2024-12-12 13:46:23 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:46:24 -  - TIME UpdateUpdate(request) 0.333 sec
+2024-12-12 13:46:24 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:46:24 -  - TIME UnGzipArchive 0.018 sec
+2024-12-12 13:46:24 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:46:24 - CURV - Update updated successfully!
+2024-12-12 13:46:24 - UPD_SUCCESS - Update system updated
+2024-12-12 13:46:24 -  - exec CUpdateClient::GetUpdatesList
+2024-12-12 13:46:24 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:46:24 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.100.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:46:24 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:46:24 -  - TIME GetUpdatesList(request) 0.077 sec
+2024-12-12 13:46:24 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:36 -  - exec CUpdateClient::ActivateLicenseKey
+2024-12-12 13:57:36 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:57:36 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.100.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=activate
+2024-12-12 13:57:36 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:57:36 -  - TIME ActivateLicenseKey(request) 0.101 sec
+2024-12-12 13:57:36 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:36 - CUALK - [EMPTY_VALS] Логин "daniyar" бюджета на сайте <a href="http://www.1c-bitrix.ru">www.1c-bitrix.ru</a> уже занят. Выберите, пожалуйста, другой логин. 
+2024-12-12 13:57:36 - UPD_ERROR - Error: [EMPTY_VALS] Логин "daniyar" бюджета на сайте <a href="http://www.1c-bitrix.ru">www.1c-bitrix.ru</a> уже занят. Выберите, пожалуйста, другой логин. 
+2024-12-12 13:57:49 -  - exec CUpdateClient::ActivateLicenseKey
+2024-12-12 13:57:49 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:57:49 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.100.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=activate
+2024-12-12 13:57:49 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:57:50 -  - TIME ActivateLicenseKey(request) 0.249 sec
+2024-12-12 13:57:50 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:50 - CUALK - License key activated successfully!
+2024-12-12 13:57:50 - UPD_SUCCESS - Licence activated
+2024-12-12 13:57:50 -  - exec CUpdateClient::GetUpdatesList
+2024-12-12 13:57:50 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:57:50 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.100.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:57:50 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:57:50 -  - TIME GetUpdatesList(request) 0.136 sec
+2024-12-12 13:57:50 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:52 -  - exec CUpdateClient::RegisterVersion
+2024-12-12 13:57:52 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:57:53 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.100.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=register
+2024-12-12 13:57:53 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:57:53 -  - TIME RegisterVersion(request) 0.123 sec
+2024-12-12 13:57:53 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:57:53 -  - TIME UnGzipArchive 0.002 sec
+2024-12-12 13:57:53 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:53 - CURV - Product registered successfully!
+2024-12-12 13:57:53 - UPD_SUCCESS - Registered
+2024-12-12 13:57:55 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:55 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:57:55 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.100.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:57:55 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:57:55 -  - TIME LoadModulesUpdates(request) 0.114 sec
+2024-12-12 13:57:55 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:55 - S - STEP
+2024-12-12 13:57:55 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:57:55 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:55 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:55 -  - loadFile
+2024-12-12 13:57:55 - U - RETURN
+2024-12-12 13:57:55 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:57:55 -  - TIME UnGzipArchive 0.02 sec
+2024-12-12 13:57:55 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001075/fileman/updater24.200.0.php'
+2024-12-12 13:57:55 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001075/fileman/updater24.200.0.php': CopyFiles(install/components, components)
+2024-12-12 13:57:55 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001075/fileman/updater24.200.0.php': CopyFiles(install/js, js)
+2024-12-12 13:57:55 -  - TIME UpdateStepModules 0.054 sec
+2024-12-12 13:57:55 - UPD_SUCCESS - Updated: fileman (24.200.0)<br><li>Исправлена ошибка, мешающая работать с текстовым редактором из-за строки копилота. 
+2024-12-12 13:57:55 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:55 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:57:55 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.200.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:57:55 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:57:56 -  - TIME LoadModulesUpdates(request) 0.109 sec
+2024-12-12 13:57:56 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:56 - S - STEP
+2024-12-12 13:57:56 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:57:56 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:56 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:56 -  - loadFile
+2024-12-12 13:57:56 - U - RETURN
+2024-12-12 13:57:56 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:57:56 -  - TIME UnGzipArchive 0.006 sec
+2024-12-12 13:57:56 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001076/fileman/updater24.200.100.php'
+2024-12-12 13:57:56 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001076/fileman/updater24.200.100.php': CopyFiles(install/js, js)
+2024-12-12 13:57:56 -  - TIME UpdateStepModules 0.018 sec
+2024-12-12 13:57:56 - UPD_SUCCESS - Updated: fileman (24.200.100)<br><li>Исправлена ошибка переноса строки в браузере Google Chrome в macOS. 
+2024-12-12 13:57:56 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:56 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:57:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.200.100&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:57:56 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:57:56 -  - TIME LoadModulesUpdates(request) 0.064 sec
+2024-12-12 13:57:56 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:56 - S - STEP
+2024-12-12 13:57:56 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:57:56 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:56 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:56 -  - loadFile
+2024-12-12 13:57:56 - U - RETURN
+2024-12-12 13:57:56 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:57:56 -  - TIME UnGzipArchive 0.029 sec
+2024-12-12 13:57:56 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001076/fileman/updater24.300.0.php'
+2024-12-12 13:57:56 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001076/fileman/updater24.300.0.php': CopyFiles(install/js, js)
+2024-12-12 13:57:56 -  - TIME UpdateStepModules 0.065 sec
+2024-12-12 13:57:56 - UPD_SUCCESS - Updated: fileman (24.300.0)<br><li>Доработан Copilot для внедрения в карточку товара. 
+2024-12-12 13:57:57 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:57 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:57:57 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.0.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:57:57 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:57:57 -  - TIME LoadModulesUpdates(request) 0.076 sec
+2024-12-12 13:57:57 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:57 - S - STEP
+2024-12-12 13:57:57 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:57:57 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:57 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:57 -  - loadFile
+2024-12-12 13:57:57 - U - RETURN
+2024-12-12 13:57:57 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:57:57 -  - TIME UnGzipArchive 0.142 sec
+2024-12-12 13:57:57 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001077/iblock/updater24.100.0/index.php'
+2024-12-12 13:57:57 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1734001077/iblock/updater24.100.0/index.php': Query(create index ix_iblock_element_name on b_iblock_element(IBLOCK_ID, NAME), )
+2024-12-12 13:57:57 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1734001077/iblock/updater24.100.0/index.php': Query(create index ix_iblock_code on b_iblock (CODE), )
+2024-12-12 13:57:57 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001077/iblock/updater24.100.0/index.php': CopyFiles(install/components, components)
+2024-12-12 13:57:57 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001077/iblock/updater24.100.0/index.php': CopyFiles(install/js, js)
+2024-12-12 13:57:58 -  - TIME UpdateStepModules 0.562 sec
+2024-12-12 13:57:58 - UPD_SUCCESS - Updated: iblock (24.100.0)<br><li>В пользовательские поля типов \"Привязка к элементам инфоблоков\" и \"Привязка к разделам инфоблоков\" добавлены режимы отображения \"Набираемый список\" и \"Диалог выбора\" (для использования новых возможностей в crm необходима версия модуля crm 24.600.0 и выше). <li>Настройки фильтра и списка товаров в каталоге Б24 переведены на использование нового интерфейса. <li>Исправлена выгрузка в csv свойств типа \"Привязка к товарам (SKU)\". <li>Улучшена производительность проверки существования элемента инфоблока в бизнес-процессах. <li>Исправлено копирование универсальных списков при отсутствии символьных кодов свойств. <li>Исправлено копирование универсальных списков на PostgreSQL. <li>Исправлена ошибка редактирования свойства типа \"Привязка к товарам (SKU)\", приводившая к потере связи \"товар - торговое предложение (вариация)\". <li>Исправлена ошибка, возникавшая при снятии с паузы бизнес-процесса, если в инфоблоке есть свойство типа \"Привязка к элементам\". <li>Разработчикам: для класса CIBlockType добавлен метод getLastError, возвращающий последнюю ошибку. Прямое обращение к свойству LAST_ERROR этого класса больше не рекомендуется. <li>Разработчикам: улучшена производительность метода CIBlockElement::GetList для случая проверки прав и постраничной навигации.
+2024-12-12 13:57:58 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:58 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:57:58 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.0&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:57:58 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:57:58 -  - TIME LoadModulesUpdates(request) 0.063 sec
+2024-12-12 13:57:58 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:58 - S - STEP
+2024-12-12 13:57:58 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:57:58 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:58 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:58 -  - loadFile
+2024-12-12 13:57:58 - U - RETURN
+2024-12-12 13:57:58 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:57:58 -  - TIME UnGzipArchive 0.005 sec
+2024-12-12 13:57:58 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001078/iblock/updater24.100.100/index.php'
+2024-12-12 13:57:58 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001078/iblock/updater24.100.100/index.php': CopyFiles(install/components, components)
+2024-12-12 13:57:58 -  - TIME UpdateStepModules 0.019 sec
+2024-12-12 13:57:58 - UPD_SUCCESS - Updated: iblock (24.100.100)<br><li>Исправлена сортировка в пользовательских поля типа \"Привязка к разделам инфоблоков\" для режимов \"Список\" и \"Флажки\".
+2024-12-12 13:57:59 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:59 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:57:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.100&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:57:59 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:57:59 -  - TIME LoadModulesUpdates(request) 0.068 sec
+2024-12-12 13:57:59 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:59 - S - STEP
+2024-12-12 13:57:59 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:57:59 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:59 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:59 -  - loadFile
+2024-12-12 13:57:59 - U - RETURN
+2024-12-12 13:57:59 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:57:59 -  - TIME UnGzipArchive 0.003 sec
+2024-12-12 13:57:59 -  - TIME UpdateStepModules 0.006 sec
+2024-12-12 13:57:59 - UPD_SUCCESS - Updated: iblock (24.100.200)<br><li>На странице редактирования свойства в административном разделе не показывался инфоблок, указанный в свойствах типов \"Привязка к элементам\" и \"Привязка к разделам\".
+2024-12-12 13:57:59 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:57:59 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:57:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.0.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:57:59 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:57:59 -  - TIME LoadModulesUpdates(request) 0.078 sec
+2024-12-12 13:57:59 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:57:59 - S - STEP
+2024-12-12 13:57:59 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:00 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:00 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:00 -  - loadFile
+2024-12-12 13:58:00 - U - RETURN
+2024-12-12 13:58:00 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:00 -  - TIME UnGzipArchive 0.068 sec
+2024-12-12 13:58:00 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001080/translate/updater24.100.0.php'
+2024-12-12 13:58:00 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001080/translate/updater24.100.0.php': CopyFiles(install/components, components)
+2024-12-12 13:58:00 -  - TIME UpdateStepModules 0.195 sec
+2024-12-12 13:58:00 - UPD_SUCCESS - Updated: translate (24.100.0)<br><li>Исправлена ошибка на поиске фразы, содержащей символ %.
+2024-12-12 13:58:00 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:00 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:00 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.0.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:00 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:00 -  - TIME LoadModulesUpdates(request) 0.066 sec
+2024-12-12 13:58:00 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:00 - S - STEP
+2024-12-12 13:58:00 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:00 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:00 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:00 -  - loadFile
+2024-12-12 13:58:00 - U - RETURN
+2024-12-12 13:58:00 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:00 -  - TIME UnGzipArchive 0.026 sec
+2024-12-12 13:58:01 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001080/perfmon/updater24.100.0/index.php'
+2024-12-12 13:58:01 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001080/perfmon/updater24.100.0/index.php': CopyFiles(install/wizards, wizards)
+2024-12-12 13:58:01 -  - TIME UpdateStepModules 0.079 sec
+2024-12-12 13:58:01 - UPD_SUCCESS - Updated: perfmon (24.100.0)<br><li>Добавлена поддержка нескольких подключений при работе с таблицами в административном разделе. <li>В редакторе таблиц добавлена поддержка работы с NULL. <li>Улучшения и исправления мастера миграции на PostgreSQL. 
+2024-12-12 13:58:01 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:01 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:01 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.100.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.300.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:01 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:01 -  - TIME LoadModulesUpdates(request) 0.092 sec
+2024-12-12 13:58:01 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:01 - S - STEP
+2024-12-12 13:58:01 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:01 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:01 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:01 -  - loadFile
+2024-12-12 13:58:01 - U - RETURN
+2024-12-12 13:58:01 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:01 -  - TIME UnGzipArchive 0.01 sec
+2024-12-12 13:58:01 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001081/seo/updater24.400.0.php'
+2024-12-12 13:58:01 -  - TIME UpdateStepModules 0.029 sec
+2024-12-12 13:58:01 - UPD_SUCCESS - Updated: seo (24.400.0)<br><li>Исправлена ошибка при авторизации на внешних сервисах (ретаргетинг, платёжные системы и т.д.).
+2024-12-12 13:58:02 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:02 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:02 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.100.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.100.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:02 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:02 -  - TIME LoadModulesUpdates(request) 0.077 sec
+2024-12-12 13:58:02 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:02 - S - STEP
+2024-12-12 13:58:02 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:02 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:02 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:02 -  - loadFile
+2024-12-12 13:58:02 - U - RETURN
+2024-12-12 13:58:02 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:02 -  - TIME UnGzipArchive 0.01 sec
+2024-12-12 13:58:02 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001082/clouds/updater24.200.0/index.php'
+2024-12-12 13:58:02 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001082/clouds/updater24.200.0/index.php': CopyFiles(install/admin, admin)
+2024-12-12 13:58:02 -  - TIME UpdateStepModules 0.038 sec
+2024-12-12 13:58:02 - UPD_SUCCESS - Updated: clouds (24.200.0)<br><li>Добавлено s3-совместимое облачное хранилище Selectel.
+2024-12-12 13:58:02 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:02 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:02 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.200.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.100.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:02 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:02 -  - TIME LoadModulesUpdates(request) 0.073 sec
+2024-12-12 13:58:02 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:02 - S - STEP
+2024-12-12 13:58:02 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:02 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:02 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:02 -  - loadFile
+2024-12-12 13:58:03 - U - RETURN
+2024-12-12 13:58:03 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:03 -  - TIME UnGzipArchive 0.005 sec
+2024-12-12 13:58:03 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001083/clouds/updater24.300.0/index.php'
+2024-12-12 13:58:03 -  - TIME UpdateStepModules 0.013 sec
+2024-12-12 13:58:03 - UPD_SUCCESS - Updated: clouds (24.300.0)<br><li>Важно! Изменение в API HotBox (VK Cloud) для работы с регионами. 
+2024-12-12 13:58:03 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:03 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.300.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.100.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:03 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:03 -  - TIME LoadModulesUpdates(request) 0.083 sec
+2024-12-12 13:58:03 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:03 - S - STEP
+2024-12-12 13:58:03 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:03 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:03 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:03 -  - loadFile
+2024-12-12 13:58:03 - U - RETURN
+2024-12-12 13:58:03 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:03 -  - TIME UnGzipArchive 0.002 sec
+2024-12-12 13:58:03 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001083/clouds/updater24.400.0/index.php'
+2024-12-12 13:58:03 -  - TIME UpdateStepModules 0.007 sec
+2024-12-12 13:58:03 - UPD_SUCCESS - Updated: clouds (24.400.0)<br><li>Незначительные исправления. 
+2024-12-12 13:58:03 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:03 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.0.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.100.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:03 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:04 -  - TIME LoadModulesUpdates(request) 0.066 sec
+2024-12-12 13:58:04 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:04 - S - STEP
+2024-12-12 13:58:04 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:04 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:04 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:04 -  - loadFile
+2024-12-12 13:58:04 - U - RETURN
+2024-12-12 13:58:04 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:04 -  - TIME UnGzipArchive 0.008 sec
+2024-12-12 13:58:04 -  - TIME UpdateStepModules 0.021 sec
+2024-12-12 13:58:04 - UPD_SUCCESS - Updated: bitrixcloud (24.100.0)<br><li>Добавлена поддержка резервного копирования в Yandex Cloud. 
+2024-12-12 13:58:04 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:04 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:04 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.100.0&bitm_rest=24.500.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:04 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:04 -  - TIME LoadModulesUpdates(request) 0.073 sec
+2024-12-12 13:58:04 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:04 - S - STEP
+2024-12-12 13:58:04 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:04 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:04 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:04 -  - loadFile
+2024-12-12 13:58:04 - U - RETURN
+2024-12-12 13:58:04 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:04 -  - TIME UnGzipArchive 0.011 sec
+2024-12-12 13:58:04 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001084/rest/updater24.550.0.php'
+2024-12-12 13:58:04 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001084/rest/updater24.550.0.php': CopyFiles(install/js, js)
+2024-12-12 13:58:04 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001084/rest/updater24.550.0.php': CopyFiles(install/components, components)
+2024-12-12 13:58:04 -  - TIME UpdateStepModules 0.052 sec
+2024-12-12 13:58:04 - UPD_SUCCESS - Updated: rest (24.550.0)<br><li>Исправлены интерфейсные ошибки.
+2024-12-12 13:58:05 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:05 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:05 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.100.0&bitm_rest=24.550.0&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:05 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:05 -  - TIME LoadModulesUpdates(request) 0.075 sec
+2024-12-12 13:58:05 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:05 - S - STEP
+2024-12-12 13:58:05 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:05 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:05 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:05 -  - loadFile
+2024-12-12 13:58:05 - U - RETURN
+2024-12-12 13:58:05 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:05 -  - TIME UnGzipArchive 0.003 sec
+2024-12-12 13:58:05 -  - TIME UpdateStepModules 0.007 sec
+2024-12-12 13:58:05 - UPD_SUCCESS - Updated: rest (24.550.100)<br><li>Добавлен метод для ручной отправки событий rest.
+2024-12-12 13:58:05 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:05 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:05 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:05 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:05 -  - TIME LoadModulesUpdates(request) 0.068 sec
+2024-12-12 13:58:05 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:05 - S - STEP
+2024-12-12 13:58:05 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:05 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:05 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:05 -  - loadFile
+2024-12-12 13:58:05 - U - RETURN
+2024-12-12 13:58:05 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:05 -  - TIME UnGzipArchive 0.003 sec
+2024-12-12 13:58:05 -  - TIME UpdateStepModules 0.008 sec
+2024-12-12 13:58:05 - UPD_SUCCESS - Updated: messageservice (24.500.100)<br><li>Исправлена ошибка обработки списка каскадов edna.
+2024-12-12 13:58:06 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:06 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.500.100&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:06 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:06 -  - TIME LoadModulesUpdates(request) 0.06 sec
+2024-12-12 13:58:06 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:06 - S - STEP
+2024-12-12 13:58:06 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:06 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:06 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:06 -  - loadFile
+2024-12-12 13:58:06 - U - RETURN
+2024-12-12 13:58:06 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:06 -  - TIME UnGzipArchive 0.006 sec
+2024-12-12 13:58:06 -  - TIME UpdateStepModules 0.016 sec
+2024-12-12 13:58:06 - UPD_SUCCESS - Updated: messageservice (24.600.0)<br><li>Отправка файлов в whatsapp через edna. <li>Настройка кодов отправителя для отдельных открытых линий.
+2024-12-12 13:58:06 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:06 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.600.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:06 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:07 -  - TIME LoadModulesUpdates(request) 0.081 sec
+2024-12-12 13:58:07 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:07 - S - STEP
+2024-12-12 13:58:07 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:07 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:07 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:07 -  - loadFile
+2024-12-12 13:58:07 - U - RETURN
+2024-12-12 13:58:07 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:07 -  - TIME UnGzipArchive 0.006 sec
+2024-12-12 13:58:07 -  - TIME UpdateStepModules 0.014 sec
+2024-12-12 13:58:07 - UPD_SUCCESS - Updated: messageservice (24.700.0)<br><li>Добавлен метод для обновления провайдера СМС messageservice.sender.update.
+2024-12-12 13:58:07 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:07 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:07 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:07 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:07 -  - TIME LoadModulesUpdates(request) 0.081 sec
+2024-12-12 13:58:07 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:07 - S - STEP
+2024-12-12 13:58:07 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:07 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:07 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:07 -  - loadFile
+2024-12-12 13:58:07 - U - RETURN
+2024-12-12 13:58:07 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:07 -  - TIME UnGzipArchive 0.082 sec
+2024-12-12 13:58:08 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001087/ui/updater24.400.0.php'
+2024-12-12 13:58:08 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001087/ui/updater24.400.0.php': CopyFiles(install/js, js)
+2024-12-12 13:58:08 -  - TIME UpdateStepModules 0.34 sec
+2024-12-12 13:58:08 - UPD_SUCCESS - Updated: ui (24.400.0)<br><li>Добавлена возможность уменьшать изображение при редактировании. <li>Время жизни QR-кода авторизации в мобильном приложении сокращено до 60 секунд.
+2024-12-12 13:58:08 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:08 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:08 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.796&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.400.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:08 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:08 -  - TIME LoadModulesUpdates(request) 0.073 sec
+2024-12-12 13:58:08 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:08 - S - STEP
+2024-12-12 13:58:08 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:08 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:08 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:08 -  - loadFile
+2024-12-12 13:58:09 - U - RETURN
+2024-12-12 13:58:09 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:09 -  - TIME UnGzipArchive 0.039 sec
+2024-12-12 13:58:09 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001089/main/updater24.0.800.php'
+2024-12-12 13:58:09 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001089/main/updater24.0.800.php': CopyFiles(install/components, components)
+2024-12-12 13:58:09 -  - TIME UpdateStepModules 0.107 sec
+2024-12-12 13:58:09 - UPD_SUCCESS - Updated: main (24.0.800)<br><li>Исправлена интерфейсная ошибка во всплывающем окне свободных слотов в форме написания письма. <li>Добавлены тарифные ограничения на добавление ссылки на свободные слоты в почте. <li>Усилена безопасность модуля.
+2024-12-12 13:58:09 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:09 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:09 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.800&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.800&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.400.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:09 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:09 -  - TIME LoadModulesUpdates(request) 0.075 sec
+2024-12-12 13:58:09 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:09 - S - STEP
+2024-12-12 13:58:09 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:09 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:09 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:09 -  - loadFile
+2024-12-12 13:58:10 - U - RETURN
+2024-12-12 13:58:10 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:10 -  - TIME UnGzipArchive 0.459 sec
+2024-12-12 13:58:10 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001090/ui/updater24.500.0.php'
+2024-12-12 13:58:10 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001090/ui/updater24.500.0.php': CopyFiles(install/components, components)
+2024-12-12 13:58:10 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001090/ui/updater24.500.0.php': CopyFiles(install/js, js)
+2024-12-12 13:58:12 -  - TIME UpdateStepModules 1.945 sec
+2024-12-12 13:58:12 - UPD_SUCCESS - Updated: ui (24.500.0)<br><li>Добавлен новый диалог выбора даты и времени (ui.date-picker). 
+2024-12-12 13:58:12 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:12 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:12 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.0.800&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.800&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.500.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:12 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:13 -  - TIME LoadModulesUpdates(request) 0.076 sec
+2024-12-12 13:58:13 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:13 - S - STEP
+2024-12-12 13:58:13 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:13 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:13 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:13 -  - loadFile
+2024-12-12 13:58:13 - U - RETURN
+2024-12-12 13:58:13 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:14 -  - TIME UnGzipArchive 0.485 sec
+2024-12-12 13:58:14 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001093/main/updater24.100.0.php'
+2024-12-12 13:58:14 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001093/main/updater24.100.0.php': CopyFiles(install/components, components)
+2024-12-12 13:58:14 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001093/main/updater24.100.0.php': CopyFiles(install/gadgets, gadgets)
+2024-12-12 13:58:14 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001093/main/updater24.100.0.php': CopyFiles(install/js, js)
+2024-12-12 13:58:14 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001093/main/updater24.100.0.php': CopyFiles(install/panel, panel)
+2024-12-12 13:58:15 -  - TIME UpdateStepModules 1.58 sec
+2024-12-12 13:58:15 - UPD_SUCCESS - Updated: main (24.100.0)<br><li>Оптимизирована работа тегированного кеша. <li>Оптимизирован код, связанный с переходом на UTF-8. <li>Оптимизирована производительность обновления данных пользовательских свойств. <li>Новый календарик в фильтрах гридов и панели управления. <li>Добавлена возможность скачивания результатов выполнения SQL-запроса в CSV-файл. <li>Ряд исправлений и улучшений в почтовой подсистеме. <li>Улучшена обработка ссылок для редиректов. <li>Исправления для СУБД PostgreSQL. <li>Исправлены интерфейсные ошибки. <li>Разработчикам: Query::fetchCollection() по умолчанию выбирает все скалярные поля. <li>Разработчикам: добавлен уровень журналирования http-клиента Web\\HttpDebug::CONNECT (по умолчанию включен). <li>Разработчикам: dbconn.php можно разместить в /local/php_interface; .settings.php и .settings_extra.php могут быть в /local. <li>Разработчикам: корневую папку файлового кеша можно разместить по произвольному пути, настраивается в конфигурации [\'cache\'][\'root_directory\']. <li>Разработчикам: добавлены CLI-команды make:controller и make:tablet. <li>Разработчикам: добавлена возможность запрещать кеширование в таблетах ORM. 
+2024-12-12 13:58:16 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:16 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:16 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.100.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.100.0&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.500.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:16 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:16 -  - TIME LoadModulesUpdates(request) 0.072 sec
+2024-12-12 13:58:16 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:16 - S - STEP
+2024-12-12 13:58:16 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:16 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:16 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:16 -  - loadFile
+2024-12-12 13:58:16 - U - RETURN
+2024-12-12 13:58:16 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:16 -  - TIME UnGzipArchive 0.005 sec
+2024-12-12 13:58:16 -  - TIME UpdateStepModules 0.013 sec
+2024-12-12 13:58:16 - UPD_SUCCESS - Updated: main (24.100.100)<br><li>Разработчикам: актуализирован список функций агрегации в ORM.
+2024-12-12 13:58:16 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:16 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:16 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.100.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.100.100&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.500.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:16 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:16 -  - TIME LoadModulesUpdates(request) 0.067 sec
+2024-12-12 13:58:16 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:16 - S - STEP
+2024-12-12 13:58:16 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:17 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:17 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:17 -  - loadFile
+2024-12-12 13:58:17 - U - RETURN
+2024-12-12 13:58:17 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:17 -  - TIME UnGzipArchive 0.006 sec
+2024-12-12 13:58:17 -  - TIME UpdateStepModules 0.015 sec
+2024-12-12 13:58:17 - UPD_SUCCESS - Updated: main (24.150.0)<br><li>Для текстового парсера (CTextParser) добавлен новый режим вывода верстки. 
+2024-12-12 13:58:17 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:17 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:17 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.150.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.150.0&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.500.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:17 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:17 -  - TIME LoadModulesUpdates(request) 0.079 sec
+2024-12-12 13:58:17 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:17 - S - STEP
+2024-12-12 13:58:17 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:17 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:17 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:17 -  - loadFile
+2024-12-12 13:58:17 - U - RETURN
+2024-12-12 13:58:17 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:17 -  - TIME UnGzipArchive 0.03 sec
+2024-12-12 13:58:17 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001097/main/updater24.200.0.php'
+2024-12-12 13:58:17 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001097/main/updater24.200.0.php': CopyFiles(install/js, js)
+2024-12-12 13:58:17 -  - TIME UpdateStepModules 0.112 sec
+2024-12-12 13:58:17 - UPD_SUCCESS - Updated: main (24.200.0)<br><li>Улучшена производительность постраничной навигации.
+2024-12-12 13:58:18 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:18 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.0&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.500.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:18 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:18 -  - TIME LoadModulesUpdates(request) 0.075 sec
+2024-12-12 13:58:18 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:18 - S - STEP
+2024-12-12 13:58:18 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:18 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:18 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:18 -  - loadFile
+2024-12-12 13:58:18 - U - RETURN
+2024-12-12 13:58:18 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:18 -  - TIME UnGzipArchive 0.004 sec
+2024-12-12 13:58:18 -  - TIME UpdateStepModules 0.009 sec
+2024-12-12 13:58:18 - UPD_SUCCESS - Updated: main (24.200.100)<br><li>Улучшена производительность проактивной защиты.
+2024-12-12 13:58:18 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:18 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.100&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.500.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:18 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:18 -  - TIME LoadModulesUpdates(request) 0.087 sec
+2024-12-12 13:58:18 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:18 - S - STEP
+2024-12-12 13:58:18 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:18 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:18 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:18 -  - loadFile
+2024-12-12 13:58:19 - U - RETURN
+2024-12-12 13:58:19 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:19 -  - TIME UnGzipArchive 0.003 sec
+2024-12-12 13:58:19 -  - TIME UpdateStepModules 0.007 sec
+2024-12-12 13:58:19 - UPD_SUCCESS - Updated: main (24.200.200)<br><li>Исправлена ошибка подтверждения почты при добавлении отправителя в административной панели. 
+2024-12-12 13:58:19 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:19 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:19 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.200&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.200&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.0&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.500.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:19 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:19 -  - TIME LoadModulesUpdates(request) 0.069 sec
+2024-12-12 13:58:19 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:19 - S - STEP
+2024-12-12 13:58:19 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:19 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:19 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:19 -  - loadFile
+2024-12-12 13:58:19 - U - RETURN
+2024-12-12 13:58:19 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:19 -  - TIME UnGzipArchive 0.005 sec
+2024-12-12 13:58:19 -  - TIME UpdateStepModules 0.014 sec
+2024-12-12 13:58:19 - UPD_SUCCESS - Updated: security (24.0.100)<br><li>Исправлены интерфейсные ошибки в \"Мониторе активной защиты\".
+2024-12-12 13:58:19 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:19 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:20 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.200&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.200&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.100&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.500.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:20 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:20 -  - TIME LoadModulesUpdates(request) 0.098 sec
+2024-12-12 13:58:20 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:20 - S - STEP
+2024-12-12 13:58:20 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:20 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:20 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:20 -  - loadFile
+2024-12-12 13:58:20 - U - RETURN
+2024-12-12 13:58:20 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:20 -  - TIME UnGzipArchive 0.323 sec
+2024-12-12 13:58:20 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001100/ui/updater24.600.0.php'
+2024-12-12 13:58:21 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1734001100/ui/updater24.600.0.php': Query(
+			alter table b_ui_entity_editor_config 
+			add column OPTION_CATEGORY varchar(50) not null default 'crm.entity.editor',
+			add column AUTO_APPLY_SCOPE varchar(1) not null default 'N'
+		, )
+2024-12-12 13:58:21 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1734001100/ui/updater24.600.0.php': Query(
+		alter table b_ui_entity_editor_config
+		alter column OPTION_CATEGORY drop default
+	, )
+2024-12-12 13:58:21 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001100/ui/updater24.600.0.php': CopyFiles(install/components, components)
+2024-12-12 13:58:21 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001100/ui/updater24.600.0.php': CopyFiles(install/js, js)
+2024-12-12 13:58:22 -  - TIME UpdateStepModules 1.242 sec
+2024-12-12 13:58:22 - UPD_SUCCESS - Updated: ui (24.600.0)<br><li>Возможность применить представление в карточках crm подразделениям орг. структуры и группам соц. сети. <li>Обновлена библиотека Vue 3 и связанные с ней модули (Vue 3.5.4, Vuex 4.1.0, Pinia 2.2.2, Vue-router 4.4.4).
+2024-12-12 13:58:22 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:22 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:22 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.200&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.200&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.100&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.600.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:22 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:22 -  - TIME LoadModulesUpdates(request) 0.073 sec
+2024-12-12 13:58:22 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:22 - S - STEP
+2024-12-12 13:58:22 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:22 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:22 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:22 -  - loadFile
+2024-12-12 13:58:22 - U - RETURN
+2024-12-12 13:58:22 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:23 -  - TIME UnGzipArchive 0.104 sec
+2024-12-12 13:58:23 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001102/ui/updater24.700.0.php'
+2024-12-12 13:58:23 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001102/ui/updater24.700.0.php': CopyFiles(install/js, js)
+2024-12-12 13:58:23 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001102/ui/updater24.700.0.php': CopyFiles(install/components, components)
+2024-12-12 13:58:23 -  - TIME UpdateStepModules 0.382 sec
+2024-12-12 13:58:23 - UPD_SUCCESS - Updated: ui (24.700.0)<br><li>Исправлены ошибки в форматировании текста в визуальном редакторе. 
+2024-12-12 13:58:23 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:23 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:23 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.200&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.200&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.100&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.700.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:23 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:23 -  - TIME LoadModulesUpdates(request) 0.07 sec
+2024-12-12 13:58:23 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:23 - S - STEP
+2024-12-12 13:58:23 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:24 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:24 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:24 -  - loadFile
+2024-12-12 13:58:24 - U - RETURN
+2024-12-12 13:58:24 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:24 -  - TIME UnGzipArchive 0.003 sec
+2024-12-12 13:58:24 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001104/ui/updater24.700.100.php'
+2024-12-12 13:58:24 -  - TIME UpdateStepModules 0.006 sec
+2024-12-12 13:58:24 - UPD_SUCCESS - Updated: ui (24.700.100)<br><li>Исправлена ошибка, при которой ломался чат из-за подключения неактуальных файлов старых версий. 
+2024-12-12 13:58:24 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:24 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:24 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.200&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.200&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.100&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.700.100&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:24 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:24 -  - TIME LoadModulesUpdates(request) 0.085 sec
+2024-12-12 13:58:24 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:24 - S - STEP
+2024-12-12 13:58:24 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:24 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:24 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:24 -  - loadFile
+2024-12-12 13:58:24 - U - RETURN
+2024-12-12 13:58:24 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:24 -  - TIME UnGzipArchive 0.005 sec
+2024-12-12 13:58:24 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001104/ui/updater24.700.200.php'
+2024-12-12 13:58:24 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001104/ui/updater24.700.200.php': CopyFiles(install/js, js)
+2024-12-12 13:58:24 -  - TIME UpdateStepModules 0.017 sec
+2024-12-12 13:58:24 - UPD_SUCCESS - Updated: ui (24.700.200)<br><li>Исправлена ошибка отображение картинок в просмотрщике файлов. 
+2024-12-12 13:58:25 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:25 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:25 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.200&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.200&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.100&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.700.200&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:25 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:25 -  - TIME LoadModulesUpdates(request) 0.085 sec
+2024-12-12 13:58:25 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:25 - S - STEP
+2024-12-12 13:58:25 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:25 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:25 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:25 -  - loadFile
+2024-12-12 13:58:25 - U - RETURN
+2024-12-12 13:58:25 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:25 -  - TIME UnGzipArchive 0.153 sec
+2024-12-12 13:58:25 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001105/ui/updater24.800.0.php'
+2024-12-12 13:58:25 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001105/ui/updater24.800.0.php': CopyFiles(install/components, components)
+2024-12-12 13:58:25 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001105/ui/updater24.800.0.php': CopyFiles(install/js, js)
+2024-12-12 13:58:26 -  - TIME UpdateStepModules 0.539 sec
+2024-12-12 13:58:26 - UPD_SUCCESS - Updated: ui (24.800.0)<br><li>Добавлено новое расширение ui.avatar. <li>Добавлена возможность контролировать показ хинта, убирая атрибут в ui.hint. <li>Поддержка нового режима копилота в ui.text-editor. <li>Новый плагин \"Удалить форматирование\" ui.text-editor. <li>Добавились новые иконки в набор main ui.icon-set.
+2024-12-12 13:58:26 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:26 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:26 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.200&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.200&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.400.300&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.100&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.800.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:26 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:26 -  - TIME LoadModulesUpdates(request) 0.082 sec
+2024-12-12 13:58:26 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:26 - S - STEP
+2024-12-12 13:58:26 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:26 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:26 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:26 -  - loadFile
+2024-12-12 13:58:28 - U - RETURN
+2024-12-12 13:58:28 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:29 -  - TIME UnGzipArchive 1.052 sec
+2024-12-12 13:58:30 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001108/landing/updater24.500.0.php'
+2024-12-12 13:58:30 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001108/landing/updater24.500.0.php': CopyFiles(install/js, js)
+2024-12-12 13:58:30 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001108/landing/updater24.500.0.php': CopyFiles(install/components, components)
+2024-12-12 13:58:31 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001108/landing/updater24.500.0.php': CopyFiles(install/blocks, blocks)
+2024-12-12 13:58:33 -  - TIME UpdateStepModules 3.768 sec
+2024-12-12 13:58:33 - UPD_SUCCESS - Updated: landing (24.500.0)<br><li>Добавлен функционал \"Главной страницы портала\" (\"Наш вайб\"). <li>Исправлены незначительные неполадки в копилоте в сайтах. 
+2024-12-12 13:58:34 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:34 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:34 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.200&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.200&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.500.0&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.100&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.800.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:34 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:34 -  - TIME LoadModulesUpdates(request) 0.068 sec
+2024-12-12 13:58:34 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:34 - S - STEP
+2024-12-12 13:58:34 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:34 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:34 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:34 -  - loadFile
+2024-12-12 13:58:34 - U - RETURN
+2024-12-12 13:58:34 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:34 -  - TIME UnGzipArchive 0.207 sec
+2024-12-12 13:58:34 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001114/landing/updater24.600.0.php'
+2024-12-12 13:58:34 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001114/landing/updater24.600.0.php': CopyFiles(install/js, js)
+2024-12-12 13:58:35 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001114/landing/updater24.600.0.php': CopyFiles(install/components, components)
+2024-12-12 13:58:35 -  - TIME UpdateStepModules 1.023 sec
+2024-12-12 13:58:36 - UPD_SUCCESS - Updated: landing (24.600.0)<br><li>Исправлено открытие ссылок в виджете \"Бизнес-процессы\" на главной странице портала (\"Наш вайб\"). <li>Исправлена работа кнопки копирования ссылки в шапке редактора сайта. <li>Различные улучшение и исправления в \"Нашем вайбе\".
+2024-12-12 13:58:36 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:36 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:36 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.200&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.200&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.600.0&bitm_location=24.100.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.100&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.800.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:36 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:36 -  - TIME LoadModulesUpdates(request) 0.088 sec
+2024-12-12 13:58:36 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:36 - S - STEP
+2024-12-12 13:58:36 - LMU01 - LoadModulesUpdates-Step
+2024-12-12 13:58:36 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:36 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:36 -  - loadFile
+2024-12-12 13:58:36 - U - RETURN
+2024-12-12 13:58:36 -  - exec CUpdateClient::UnGzipArchive
+2024-12-12 13:58:36 -  - TIME UnGzipArchive 0.013 sec
+2024-12-12 13:58:36 - CSURUS1 - Run updater '/bitrix/updates/update_m1734001116/location/updater24.200.0/index.php'
+2024-12-12 13:58:36 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1734001116/location/updater24.200.0/index.php': CopyFiles(install/js, js)
+2024-12-12 13:58:36 -  - TIME UpdateStepModules 0.037 sec
+2024-12-12 13:58:36 - UPD_SUCCESS - Updated: location (24.200.0)<br><li>Исправлена ошибка \"В модуле location модифицированы файлы\".
+2024-12-12 13:58:37 -  - exec CUpdateClient::LoadModulesUpdates
+2024-12-12 13:58:37 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:37 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.200&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.200&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.600.0&bitm_location=24.200.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.100&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.800.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:37 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:37 -  - TIME LoadModulesUpdates(request) 0.086 sec
+2024-12-12 13:58:37 -  - exec CUpdateClient::ParseServerData
+2024-12-12 13:58:37 - STEP - Finish - NOUPDATES
+2024-12-12 13:58:37 - STEP - Finish - NOUPDATES
+2024-12-12 13:58:40 -  - exec CUpdateClient::GetUpdatesList
+2024-12-12 13:58:40 -  - exec CUpdateClient::CollectRequestData
+2024-12-12 13:58:40 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.100.0&VERSION=24.200.200&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uc.tatem.ru&SERVER_NAME=&CHHB=uc.tatem.ru&CSAB=127.0.0.1&SUID=1jsnhokrt2nx1hjtaj4wahx7pcbue2m1&CANGZIP=Y&CLIENT_PHPVER=8.1.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.200&bitm_b24connector=24.0.0&bitm_bitrixcloud=24.100.0&bitm_clouds=24.400.0&bitm_fileman=24.300.0&bitm_highloadblock=24.0.201&bitm_iblock=24.100.200&bitm_landing=24.600.0&bitm_location=24.200.0&bitm_messageservice=24.700.0&bitm_perfmon=24.100.0&bitm_rest=24.550.100&bitm_search=24.0.0&bitm_security=24.0.100&bitm_seo=24.400.0&bitm_socialservices=24.0.200&bitm_translate=24.100.0&bitm_ui=24.800.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-12-12 13:58:40 -  - exec CUpdateClient::GetHTTPPage
+2024-12-12 13:58:40 -  - TIME GetUpdatesList(request) 0.093 sec
+2024-12-12 13:58:40 -  - exec CUpdateClient::ParseServerData

@@ -1,0 +1,4 @@
+table.order-table {border:1px solid #C4C4C4;border-collapse:collapse;width:500px}
+table.order-table th {background-color:#F0F0F0;text-align:left;font-weight:normal;border:1px solid #C4C4C4;padding:4px;color:#333}
+table.order-table td {text-align:left;border:1px solid #C4C4C4;background-color:#FFFFFF;color:#333;padding:3px 5px}
+a.order-del-item {background:url(images/cart_del.gif) no-repeat left center;padding-left:23px}

@@ -1,0 +1,74 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		"/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Сведения об образовательной организации", 
+		"sveden/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О центре", 
+		"life/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Курсы", 
+		"courses/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Семинары", 
+		"seminar/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Слушателям", 
+		"students/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Организациям", 
+		"organization/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Преподавателям", 
+		"teachers/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"contacts/", 
+		Array(), 
+		Array(), 
+		"CSite::InGroup(array(1,5,7))" 
+	),
+	Array(
+		"Карта сайта", 
+		"map.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

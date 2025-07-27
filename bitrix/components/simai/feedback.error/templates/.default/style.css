@@ -1,0 +1,305 @@
+body 
+{
+    margin: 0px!important;
+    padding: 0px!important;
+}
+
+.modal-window-home 
+{ 
+    z-index: 2000; 
+    position: fixed; 
+    top: 0px; 
+    left: 0px; 
+    bottom: 0px; 
+    right: 0px; 
+    background-color: rgba(0, 0, 0, .6); 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;  
+    overflow: visible;
+    display: none;
+} 
+.modal-window-mask {
+    position: fixed; 
+    top: 0px; 
+    left: 0px; 
+    bottom: 0px; 
+    right: 0px; 
+    background-color: rgba(0, 0, 0, .6); 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;  
+    overflow: visible;
+}
+
+.content-modal-window
+{
+    position: relative; 
+    width: 400px;
+    background-color: rgba(255,255,255,.99);
+    border-radius: 3px; 
+    display: inline-grid;
+} 
+
+.btn-button-modal-window
+{ 
+    margin-bottom: 0px; 
+    margin-right: 0px; 
+    float: right; 
+    padding: 5px 7px; 
+    margin: 7px 20px; 
+    font-size: 16px; 
+} 
+
+/*
+*   ЗАГОЛОВОК ОСНОВНОГО ОКНА СООБЩЕНИЯ
+*   ОБ ОШИБКЕ
+*
+*/
+.header-modal-window
+{   
+    background-color: #FFFFFF; 
+    border-top-left-radius: 3px; 
+    border-top-right-radius: 3px; 
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    font-weight: 600;
+}
+
+.header-modal-window-text
+{ 
+    font-family: Verdana, Arial, Helvetica, sans-serif !important; 
+    display: inline-block; 
+    padding-left: 20px;
+    font-size: 16px; 
+    color: rgba(0,0,0, .87);
+    width: 100%;
+} 
+
+/*
+*   ПОДВАЛ ОСНОВНОГО ОКНА СООБЩЕНИЯ
+*   ОБ ОШИБКЕ
+*
+*/
+.footer-modal-window
+{ 
+    background-color: #FFFFFF;
+    overflow: hidden; 
+    border-bottom-left-radius: 3px; 
+    border-bottom-right-radius: 3px;
+    width: 100%;
+} 
+
+.content-modal-window-message-submit
+{ 
+    background-color: #FFFFFF;
+    padding: 0 20px 0px 20px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.content-modal-window-message-submit p {
+    font-size: .85rem;
+    color: rgba(0,0,0, .87);
+    font-weight: 600;
+}
+
+.content-modal-window-message-submit div {
+    font-size: .8rem;
+    color: rgba(0, 0, 0, .54);
+}
+
+
+.message-text-submit
+{  
+    resize: none; 
+    min-height: 250px; 
+    min-width: 350px;
+} 
+
+.close-icon-button-block
+{ 
+    float: right;  
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    overflow: hidden;
+    padding: 15px;
+} 
+
+.close-icon-button-block:hover
+{ 
+    background-color: rgba(218, 223, 225, 1.0); 
+    cursor: pointer; 
+} 
+
+
+
+
+/*
+*   but-sm СТАНДАРТАНАЯ КНОПКА
+*   БЕЗ ЦВЕТОВОЙ СХЕМЫ
+*
+*/
+.but-sm
+{
+    font-weight: normal;
+    white-space: normal;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.but-sm
+{
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 2px;
+}
+
+.but-sm:hover, .but-sm:focus
+{
+    -webkit-transition: background-position 0s linear;
+    -moz-transition: background-position 0s linear;
+    -o-transition: background-position 0s linear;
+    transition: background-position 0s linear;
+}
+
+/*
+*-----but-sm-submit-----
+*   КНОПКА С ЦВЕТОВОЙ СХЕМОЙ
+*   ДЛЯ КНОПКИ ОТПРАВИТЬ(SUBMIT)
+*/
+.but-sm-submit
+{
+    color: rgba(255,255,255,.87);
+    background-color:#3498DB;
+    border-color:#22A7F0;
+}
+.but-sm-submit:hover, .but-sm-submit:focus
+{
+    color: rgba(255,255,255,.87);
+    background-color:  #3498FF;
+    border-color: #3498DB;
+    font-weight: 500;
+}
+
+/*
+*-----but-sm-cansel-----
+*   КНОПКА С ЦВЕТОВОЙ СХЕМОЙ
+*   ДЛЯ КНОПКИ ОТПРАВИТЬ(SUBMIT)
+*/
+.but-sm-cancel
+{
+    color: #FFFFFF;
+    background-color: #e74c3c;
+    border-color: #c0392b;
+}
+
+.but-sm-cancel:hover, .but-sm-cancel:focus
+{
+    color: #FFFFFF;
+    background-color: #c0392b; 
+    border-color: #e74c3c;
+}
+
+
+/*
+*
+*
+*/
+
+.but-sm-default
+{
+    color: #333333;
+    background-color: #F2F1EF;
+    border-color: #BDC3C7;
+}
+
+.but-sm-default:hover, .but-sm-default:focus
+{
+    color: #333333;
+    background-color: #FFFFFF;
+    border-color: #BDC3C7;
+}
+
+/*
+*
+*
+*/
+.form-sm-element
+{
+    display: block;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid rgba(0,0,0,.38);
+    border-radius: 2px;
+    padding: 2% 0 0 2%;
+    font-family: Verdana, Arial, Helvetica, sans-serif !important;
+    font-size: .8rem;
+    color: rgba(0, 0, 0, .54);
+}
+
+.form-sm-element:focus {
+    border-color: #66afe9;
+    outline: 0;
+}
+
+
+.content-form-message-user
+{
+
+}
+
+
+
+.over-mask {
+    opacity: .99;
+    z-index: 1000;
+}
+
+.but-close-over-mask {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+}
+
+.no-bold {
+    font-weight: normal;
+    opacity: 0.7;
+}
+
+.text-error {
+    margin: 0 0 1rem 0;
+}
+
+.m-20 {
+    margin: 10px 20px;
+}

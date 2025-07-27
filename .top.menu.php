@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		"/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Сведения об<br>образовательной<br>организации", 
+		"sveden/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О центре", 
+		"life/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Курсы", 
+		"courses/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Семинары", 
+		"seminar/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

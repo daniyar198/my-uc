@@ -1,0 +1,1 @@
+<span style="display:table-cell; vertical-align: middle; font-size:<?=COption::GetOptionString($GLOBALS["moduleName"], "font-size", "32px")?>;"><?=COption::GetOptionString($GLOBALS["moduleName"], "organization", "")?></span>

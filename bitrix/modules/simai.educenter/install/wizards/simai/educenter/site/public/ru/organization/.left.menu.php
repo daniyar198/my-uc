@@ -1,0 +1,60 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Корпоративное обучение", 
+		"./", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Расписание курсов", 
+		"./schedule/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Консалтинг", 
+		"./consulting/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"./news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Объявления", 
+		"./announcing/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Акции", 
+		"./shares/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вопрос-ответ", 
+		"#SITEDIR#life/faq/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отзывы", 
+		"#SITEDIR#life/reviews/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

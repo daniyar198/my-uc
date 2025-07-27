@@ -1,0 +1,6 @@
+<?php
+$MESS['SIMAI_COMPONENTS_NAME'] = 'Компоненты SIMAI';
+$MESS['SIMAI_FORM_SECTION_NAME'] = 'Видеогаллерея';
+$MESS ['SIMAI_COMPONENT_FORM_FEEDBACK_NAME'] = "Загрузчик видео";
+$MESS ['SIMAI_COMPONENT_FORM_FEEDBACK_NAME_DESC'] = "";
+?>

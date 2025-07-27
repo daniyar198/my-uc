@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/simai.educenter/components/bitrix/map.yandex.view/points/script.js" => "17535122031540",]; ?>

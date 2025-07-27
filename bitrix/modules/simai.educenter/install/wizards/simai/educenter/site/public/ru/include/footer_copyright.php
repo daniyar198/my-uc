@@ -1,0 +1,1 @@
+<?=COption::GetOptionString($GLOBALS["moduleName"], "copyright", "")?>

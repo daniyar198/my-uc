@@ -1,0 +1,133 @@
+.sf-card {
+  margin-bottom: .75rem;
+  font-family: "Roboto", "Tahoma", sans-serif; }
+  .sf-card_height_full {
+    height: 100%; }
+  .sf-card__block {
+    position: relative; }
+    .sf-card__block p, .sf-card__block h1, .sf-card__block h2, .sf-card__block h3, .sf-card__block h4, .sf-card__block h5, .sf-card__block h6, .sf-card__block span {
+      margin: 0; }
+    .sf-card__block_height_full {
+      height: 100%; }
+  .sf-card__image {
+    width: 100%;
+    height: auto; }
+  .sf-card__footnote {
+    display: inline;
+    position: absolute;
+    bottom: 0;
+    left: 0; }
+  .sf-card__container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden; }
+  .sf-card__bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; }
+  .sf-card__mask {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}	
+  .sf-card__link {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 999;
+    width: 100%;
+    height: 100%; }
+  .sf-card__caption {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0; }
+    .sf-card__caption p, .sf-card__caption h1, .sf-card__caption h2, .sf-card__caption h3, .sf-card__caption h4, .sf-card__caption h5, .sf-card__caption h6, .sf-card__caption span {
+      margin: 0; }
+  .sf-card__title {
+    position: absolute;
+    left: 0;
+    bottom: 0px; }
+  .sf-card__description {
+    position: absolute;
+    opacity: 0; }
+  .sf-card[data-animate=block_up] .sf-card__description {
+    left: 0;
+    bottom: -20px; }
+  .sf-card[data-animate=block_up] .sf-card__title {
+    bottom: 20px; }
+  .sf-card[data-animate=block_up] .sf-card__bg,
+  .sf-card[data-animate=block_up] .sf-card__title {
+    -webkit-transition: transform 0.35s;
+    -moz-transition: transform 0.35s;
+    -ms-transition: transform 0.35s;
+    -o-transition: transform 0.35s; }
+  .sf-card[data-animate=block_up] .sf-card__description {
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    -ms-transition: all 0.35s;
+    -o-transition: all 0.35s; }
+  .sf-card[data-animate=block_up]:hover .sf-card__bg {
+    transform: translateY(-50px); }
+  .sf-card[data-animate=block_up]:hover .sf-card__title {
+    transform: translateY(-35px); }
+  .sf-card[data-animate=block_up]:hover .sf-card__description {
+    opacity: 1;
+    transform: translateY(-20px); }
+  .sf-card[data-animate=zoom_up] .sf-card__description {
+    right: 60px;
+    top: 30px;
+    text-align: right;
+    border-right: 2px solid #fff;
+    color: #fff;
+    padding-right: 1.4rem; }
+  .sf-card[data-animate=zoom_up] .sf-card__mask {
+    background: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0) 100%);
+	opacity: 0;
+	}	
+  .sf-card[data-animate=zoom_up] .sf-card__title {
+    bottom: 20px; }
+  .sf-card[data-animate=zoom_up] .sf-card__bg {
+    -webkit-transition: transform 0.8s ease-in-out;
+    -moz-transition: transform 0.8s ease-in-out;
+    -ms-transition: transform 0.8s ease-in-out;
+    -o-transition: transform 0.8s ease-in-out; }
+  .sf-card[data-animate=zoom_up] .sf-card__description {
+    -webkit-transition: all 0.8s ease-in-out;
+    -moz-transition: all 0.8s ease-in-out;
+    -ms-transition: all 0.8s ease-in-out;
+    -o-transition: all 0.8s ease-in-out; }
+  .sf-card[data-animate=zoom_up]:hover .sf-card__bg {
+    transform: scale(1.1); }
+  .sf-card[data-animate=zoom_up]:hover .sf-card__mask {
+    opacity: 1;
+	transition: opacity .8s ease-in-out;
+}	
+  .sf-card[data-animate=zoom_up]:hover .sf-card__description {
+    opacity: 1;
+    transform: translateX(40px);
+    padding-right: .5rem; }
+
+.sf-infoline {
+  display: flex; }
+  .sf-infoline__wrap {
+    flex-grow: 1; }
+  .sf-infoline:not(:last-child) .sf-infoline__wrap {
+    border-bottom-width: 1px;
+    border-bottom-style: solid; }
+  .sf-infoline__ico {
+    font-size: 34px;
+    line-height: 43px;
+    width: 50px; }
+  .sf-infoline__info {
+    font-size: 1.15rem; }
+  .sf-infoline__legend {
+    font-size: .6rem; }

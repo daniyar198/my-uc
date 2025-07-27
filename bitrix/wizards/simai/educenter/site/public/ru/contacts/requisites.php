@@ -1,0 +1,147 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Реквизиты");
+?><div style="overflow: auto">
+	<table class="table table-bordered">
+	<tbody>
+	<tr>
+		<td>
+			 Наименование учреждения
+		</td>
+		<td>
+			 Государственное образовательное учреждение дополнительного профессионального образования&nbsp;Учебный центр "Симай"<br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 Сокращённое название
+		</td>
+		<td>
+			 ГОУ ДПО Учебный центр "Симай"<br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 Юридический адрес<br>
+			 Фактический адрес
+		</td>
+		<td>
+			 450077, г. Уфа, ул. Чернышевского, д.82<br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 E-mail
+		</td>
+		<td>
+ <a href="mailto:mail@simai.ru">mail@simai.ru</a><br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 ОГРН
+		</td>
+		<td>
+			 0000000000000
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 ГРН
+		</td>
+		<td>
+			 0000000000000
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 ИНН
+		</td>
+		<td>
+			 0000000000
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 КПП
+		</td>
+		<td>
+			 000000000
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 Р/С
+		</td>
+		<td>
+			 00000000000000000000 Банк РКЦ Банк г. Уфа
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 БИК
+		</td>
+		<td>
+			 000000000
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 ОКПО
+		</td>
+		<td>
+			 00000000
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 ОКОГУ
+		</td>
+		<td>
+			 00000
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 ОКАТО
+		</td>
+		<td>
+			 00000000000
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 ОКВЭД
+		</td>
+		<td>
+			 00.00.0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 ОКФС
+		</td>
+		<td>
+			 00
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 ОКОПФ
+		</td>
+		<td>
+			 00
+		</td>
+	</tr>
+	<tr>
+		<td>
+			 Контактные телефоны
+		</td>
+		<td>
+			 тел.&nbsp;+7 (347) 246-85-00<br>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+</div>
+ <br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

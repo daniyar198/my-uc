@@ -1,0 +1,4 @@
+<?
+$MESS ['SB_SALE_PAYMENT_DESC_NAME'] = "Оплата заказа";
+$MESS ['SB_SALE_PAYMENT_DESC_DESCRIPTION'] = "";
+?>

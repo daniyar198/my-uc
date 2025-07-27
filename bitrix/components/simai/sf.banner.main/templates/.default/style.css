@@ -1,0 +1,14 @@
+.sf-banner-main-container, .sf-banner-main-wrap {
+	height: 100%;
+}
+
+.sf-banner-main .swiper-pagination, .sf-banner-main .swiper-button-prev, .sf-banner-main .swiper-button-next{
+	opacity: 0;
+	transition: all 1s ease;
+}
+
+.sf-banner-main:hover .swiper-pagination, .sf-banner-main:hover .swiper-button-prev, .sf-banner-main:hover .swiper-button-next{
+	opacity: 1;
+	transition: all 1s ease;
+}
+
